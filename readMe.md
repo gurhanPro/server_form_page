@@ -8,3 +8,11 @@ this is simple project, just clone and open the index.html in your browser, no f
 
 ## contact
 ziyaadyare@gmail.com
+
+## elements in this page
+
+<ul>
+    <li> checkboxes</li>
+    <li> selects</li>
+    <li> radio buttons</li>
+</ul>
